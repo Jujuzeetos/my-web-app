@@ -88,3 +88,11 @@ li:hover {
   transform: translateX(100%);
   transition: all 0.3s ease;
 }
+input[type="datetime-local"] {
+  background-color: #21262d;
+  border: none;
+  border-radius: 8px;
+  color: #f0f6fc;
+  padding: 10px;
+  flex: 1;
+}
